@@ -1,0 +1,9 @@
+.dropdown-menu {
+  --bs-dropdown-color: #fff;
+  --bs-dropdown-bg: #212529;
+  --bs-dropdown-link-color: rgba(255, 255, 255, 0.55);
+  --bs-dropdown-link-active-color: rgba(255, 255, 255, 0.55);
+  --bs-dropdown-link-active-bg: #454545;
+  --bs-dropdown-link-hover-color: #fff;
+  --bs-dropdown-link-hover-bg: #666666;
+}
